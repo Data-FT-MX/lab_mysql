@@ -1,1 +1,0 @@
-SELECT * FROM lab_mysql.cars;
